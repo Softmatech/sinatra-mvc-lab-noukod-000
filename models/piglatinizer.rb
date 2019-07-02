@@ -9,5 +9,5 @@ class PigLatinizer
         word + word_scan_2 + "ay"
       end
   end.join ' '
-end
+  end
 end
